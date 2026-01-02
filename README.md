@@ -7,4 +7,4 @@ Bienvenue sur notre vitrine technique. Nous aidons les entreprises à gagner du 
 * *Web Scraping :* Extraction de données pour la prospection.
 * *Scripts sur mesure :* Automatisation de tâches répétitives.
 
-*Contact :* [Votre email d'agence]
+*Contact :* [AlgoFlow]
